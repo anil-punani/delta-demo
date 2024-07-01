@@ -1,1 +1,2 @@
-let pi = 3.14;
+let fruits = require("../Fruits");
+console.log(fruits[0].name);
